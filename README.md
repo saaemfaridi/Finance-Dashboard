@@ -1,15 +1,10 @@
 # Finance Dashboard
+`Version: 1.0`
 
-This is a pretty basic Command Line Interface Personal Finance Dashboard.
+This is a basic Command Line Interface Personal Finance Dashboard.
 
-#### Spoiler
-
-This project is originally designed to be a python flask Web Inerface based advanced Personal Finance Dashboard.  
-Web Interface work is in progress till the command line interface version is public.
-
-#### Version
-
-Current version: **1.0**
+`| Spoiler: This project is originally designed to be a python flask Web Inerface based advanced Personal Finance Dashboard.  
+Web Interface work is in progress till the command line interface version is public. |`
 
 ## Usage
 
