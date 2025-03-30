@@ -1,0 +1,13 @@
+{
+    "hero": {
+        "budget": 10000.0,
+        "currency": "USD",
+        "transactions": [
+            {
+                "description": "buying car",
+                "amount": 1000.0,
+                "date": "2025-03-30"
+            }
+        ]
+    }
+}
