@@ -1,5 +1,5 @@
 # Finance Dashboard
-`Version: 1.0`
+**Version:** `1.0`
 
 This is a basic Command Line Interface Personal Finance Dashboard.
 
